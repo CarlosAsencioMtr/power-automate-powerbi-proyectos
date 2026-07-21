@@ -12,3 +12,19 @@ Power Automate monitorea la bandeja de entrada de Outlook y valida si el asunto 
 
 ```text
 Proyectos Actualizados
+
+## 3. Actualización del archivo
+
+Cuando se detecta el correo, Power Automate reemplaza o actualiza el contenido del archivo Excel almacenado en OneDrive.
+
+## 4. Actualización de fuente de datos
+
+El archivo Excel queda actualizado con los proyectos vigentes, nuevos registros y proyectos que continúan activos.
+
+## 5. Visualización en Power BI
+
+Power BI utiliza el archivo de Excel como fuente de datos para actualizar el dashboard de monitoreo de proyectos.
+
+ ## Resultado
+
+El proceso permite que la información del dashboard se mantenga sincronizada con los cambios provenientes de Fiix.
