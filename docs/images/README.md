@@ -10,7 +10,7 @@ Esta carpeta contiene capturas y diagramas relacionados con el proyecto.
 
 ## Recomendaciones
 
-Antes de subir imágenes, ocultar cualquier información sensible como:
+Las siguentes imagenes no contienen los siguentes datos.
 
 - Correos reales
 - Nombres internos
